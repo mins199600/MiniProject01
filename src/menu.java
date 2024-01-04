@@ -1,4 +1,4 @@
-public class hamburgerMenu {
+public class menu {
     public static void main(String[] args) {
         /*버거메뉴
         * 치즈버거(5000)
@@ -24,5 +24,6 @@ public class hamburgerMenu {
         * 회원번호입력, 맞으면 회원으로 넘어가서 바로 쿠폰 적용
         * 비회원 일때 가입여부 묻기
         * 비회원일때, 회원가입창으로 바로 넘어가기*/
-    }
+
+    /*이 메뉴판에서 햄버거 음료 사이드 전부 다 클래스 만들기*/}
 }
